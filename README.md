@@ -46,7 +46,7 @@ These files can be downloaded from the official YOLO repository or other sources
     After installing the required dependencies and downloading the necessary files, you can run the object detection script.
 
     ```bash
-    python yolo_object_detection.py
+    python tin.py
     ```
 
     This will start the webcam feed, and you should see detected objects displayed with bounding boxes and class labels.
